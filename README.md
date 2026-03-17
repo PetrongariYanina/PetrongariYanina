@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center"> Hola a tod@s, soy Yanina Petrongari 👩‍💻📈 </h1>
 
-<!--
-**PetrongariYanina/PetrongariYanina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <p><strong>Análisis de Datos y Desarrollo</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,tensorflow,selenium,git,github" />
+  </a>
 
-Here are some ideas to get you started:
+  <p><strong>Datos y Cloud</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,gcp,postman" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p><strong>Visualización y BI</strong></p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/MicroStrategy-D9232E?style=flat-square&logo=microstrategy&logoColor=white" alt="MicroStrategy" />
+</div>
+
