@@ -45,19 +45,25 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/PetrongariYanina/GCP_project">
-          <img src="https://via.placeholder.com/400x200?text=Dashboard+HR+Analytics" width="100%" alt="Project GCP"/>
+          <img src="https://github.com/PetrongariYanina/PetrongariYanina/blob/main/img/GCP-project.png" width="100%" alt="Project GCP"/>
           <br />
-          <strong> Google Cloud Platform Project - Analyzing Tourism and Employment </strong>
+          <strong> 📊 Google Cloud Platform Project | Automated ETL: INE Insights </strong>
         </a>
-        <p>proyecto.</p>
+        <p align="justify">
+        <b>Objective:</b> Automate the analysis of Spanish economic indicators (Tourism & Employment).<br>
+        <b>Solution:</b> Developed an <i>End-to-End</i> data pipeline using a <b>Monthly Scheduler</b> for automated ingestion from the INE API/Web. I engineered the parsing logic to clean complex datasets, loading them into <b>GCP BigQuery</b>. The project concludes with a <b>Power BI</b> dashboard for strategic trend monitoring.
+      </p>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/PetrongariYanina/AJUY">
-          <img src="https://via.placeholder.com/400x200?text=Automation+with+Python" width="100%" alt="Project 2"/>
+          <img src="https://github.com/PetrongariYanina/PetrongariYanina/blob/main/img/Proyecto%20AJUY.png" width="100%" alt="Project 2"/>
           <br />
-          <strong> AJUY - Database - Web Scraping - FastAPI - Search </strong>
+          <strong> 🤖 AJUY: AI Academic Intelligence </strong>
         </a>
-        <p>proyecto.</p>
+        <p align="justify">
+        <b>Objective:</b> Unify and cross-reference complex academic data from multiple authors.<br>
+        <b>Solution:</b> A real-world interdisciplinary project where I led the <b>Web Scraping (BeautifulSoup)</b> architecture and <b>MongoDB</b> data modeling. We implemented an advanced semantic search engine using <b>AI Transformers (NLP)</b> to identify hidden academic relationships and optimize knowledge retrieval.
+      </p>
       </td>
     </tr>
   </table>
